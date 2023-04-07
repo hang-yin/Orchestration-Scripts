@@ -1,4 +1,4 @@
-# OrchestrationScriptPrototype
+# Orchestration Script
 
 Orchestration Script is a script authoring environment for mentors in a networked learning community to translate their high level understanding of ineffective learning strategies into low level data representations that can automatically detect when mentees are using these ineffective strategies.
 
